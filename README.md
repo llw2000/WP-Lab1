@@ -8,7 +8,7 @@
 3. Stylesheet.css
   
 > As well as files in the repository there is also a picture
-> > The picture included is below
+> > The picture included is below:
 
 ![Alt text](/1520841847351.jpg "LAB 1")
 
