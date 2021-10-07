@@ -1,18 +1,15 @@
 # WP-Lab1
 
-
 ### This is the repository for Web Programming Lab 1
-
-> Lorem ipsum dolor sit amet
-> > Lorem ipsum dolor sit amet
-
-![Alt text](/1520841847351.jpg "LAB 1")
 
 #### Files included
 1. README.md
 2. code.html
 3. Stylesheet.css
   
+> As well as files in the repository there is also a picture
+> > The picture included is below
 
+![Alt text](/1520841847351.jpg "LAB 1")
 
 [Lab 1](https://canvas.hw.ac.uk/courses/5395/assignments/44108)
