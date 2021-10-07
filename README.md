@@ -2,7 +2,7 @@
 
 ### This is the repository for Web Programming Lab 1
 
-#### Files included
+### Files included
 1. README.md
 2. code.html
 3. Stylesheet.css
@@ -12,4 +12,5 @@
 
 ![Alt text](/1520841847351.jpg "LAB 1")
 
+#### BElow is a link to the Lab Worksheet
 [Lab 1](https://canvas.hw.ac.uk/courses/5395/assignments/44108)
