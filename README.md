@@ -8,7 +8,7 @@
 
 ![Alt text](/path/to/img.jpg "Picture")
 
-Normal Text List
+#### List
 1. a
 2. b
 3. c
