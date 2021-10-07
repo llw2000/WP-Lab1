@@ -13,7 +13,5 @@
 2. b
 3. c
   
-[Google](http://google.com/)
 
-
-####[portal](https://portal.hw.ac.uk/dashboard/home)
+[Lab 1](https://canvas.hw.ac.uk/courses/5395/assignments/44108)
