@@ -6,7 +6,7 @@
 > Lorem ipsum dolor sit amet
 > > Lorem ipsum dolor sit amet
 
-![Alt text](/1520841847351.jpg "Picture")
+![Alt text](/1520841847351.jpg "LAB 1")
 
 #### Files included
 1. README.md
