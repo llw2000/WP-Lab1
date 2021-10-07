@@ -10,8 +10,9 @@
 
 #### Files included
 1. README.md
-2. 
-3. c
+2. code.html
+3. Stylesheet.css
   
+
 
 [Lab 1](https://canvas.hw.ac.uk/courses/5395/assignments/44108)
